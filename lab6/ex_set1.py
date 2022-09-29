@@ -1,8 +1,8 @@
-"""
-Name: Aphisada Suksom
-Id: 364411760006
-Group: MIT421
-"""
+    """
+    Name: Aphisada Suksom
+    Id: 364411760006
+    Group: MIT421
+    """
 
 #  set --> {.....}
 s = {10,20,30,40,50}
