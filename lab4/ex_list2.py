@@ -13,6 +13,8 @@ print(mylist)
 mylist.append(60)
 print(mylist)
 
+print("")
+
 mylist2 = [100,200,300]
 
 mylist.extend(mylist2)
